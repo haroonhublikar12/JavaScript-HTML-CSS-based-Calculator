@@ -1,4 +1,4 @@
-# JavaScript-HTML-CSS-based-Calculator
+# JavaScript HTML CSS-based Calculator
 
 This project covers the interactions with UI and key JavaScript methods.
 
